@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">M M Maheta High School Icon</title>
+  <desc id="desc">Academic crest with book and initials for M M Maheta High School.</desc>
+  <defs>
+    <linearGradient id="shield" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#11284a" />
+      <stop offset="100%" stop-color="#6f1228" />
+    </linearGradient>
+    <linearGradient id="book" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff7dc" />
+      <stop offset="100%" stop-color="#f2d57a" />
+    </linearGradient>
+  </defs>
+  <path d="M64 8 101 21v33c0 28-15.2 52.4-37 65.2C42.2 106.4 27 82 27 54V21L64 8Z" fill="url(#shield)" />
+  <path d="M64 16 94 27v27c0 23.2-11.8 43.8-30 56.1C45.8 97.8 34 77.2 34 54V27L64 16Z" fill="none" stroke="#f5d37c" stroke-width="4" stroke-linejoin="round" />
+  <path d="M42 47c7.6-4.1 15.2-5.5 22-4.2v28.1c-6.9-1.3-14.4.1-22 4.2V47Z" fill="url(#book)" />
+  <path d="M86 47c-7.6-4.1-15.2-5.5-22-4.2v28.1c6.9-1.3 14.4.1 22 4.2V47Z" fill="#f6e3a8" />
+  <path d="M64 42.8v28.1" fill="none" stroke="#8c6a18" stroke-width="2.5" />
+  <path d="M49 39.5h30" fill="none" stroke="#f5d37c" stroke-width="4" stroke-linecap="round" />
+  <path d="M64 24 68.2 35h11.6l-9.4 6.8 3.6 11-10-7.2-10 7.2 3.6-11-9.4-6.8h11.6L64 24Z" fill="#f5d37c" />
+  <text x="64" y="93" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#f7eed4">MMMHS</text>
+</svg>
